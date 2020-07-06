@@ -33,13 +33,13 @@ Any patient whose age exceeded 89 is listed as being of age "90".
         
 >         ME - Thank you Google. So fellows, I think now you have some knowledge on this as I do. And if you knew it already, you are awesome.
         
-**Direct_Bilirubin** - It's technically the same as "Total_Bilirubin". The difference will be given us by our own google.
+4. **Direct_Bilirubin** - It's technically the same as "Total_Bilirubin". The difference will be given us by our own google.
         
 >         Google - Bilirubin attached by the liver to glucuronic acid, a glucose-derived acid, is called direct, or conjugated, bilirubin. Bilirubin not attached to glucuronic acid is called indirect, or unconjugated, bilirubin. All the bilirubin in your blood together is called total bilirubin. 
 >         
 >         ME - Damn you google, how much information do you have.....
         
-**Alkaline_Phosphotase** - .......
+5. **Alkaline_Phosphotase** - .......
 
 >         Google - Alkaline phosphatase (ALP) is an enzyme in a person's blood that helps break down proteins. The body uses ALP for a wide range of processes, and it plays a particularly important role in liver function and bone development.Using an ALP test, it is possible to measure how much of this enzyme is circulating in a person’s blood.
 >         
@@ -47,32 +47,32 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 >         Google - No, you don't
 >         Me - Yeah.....you know everything....
 
-**Alamine_Aminotransferase** - First of all it is "Alanine" and not "Alamine" . Rest our friend google will tell.
+6. **Alamine_Aminotransferase** - First of all it is "Alanine" and not "Alamine" . Rest our friend google will tell.
 
 >         Google - Alanine aminotransferase (ALT) is an enzyme found primarily in the liver and kidney. It was originally referred to as serum glutamic pyruvic transaminase (SGPT). Normally, a low level of ALT exists in the serum. ALT is increased with liver damage and is used to screen for and/or monitor liver disease. Alanine aminotransferase (ALT) is usually measured concurrently with AST as part of a liver function panel to determine the source of organ damage. 
 >         
 >         ME - So, we need to change the column name to aviod confusion.
         
-**Aspartate_Aminotransferase** - Help Google.....
+7. **Aspartate_Aminotransferase** - Help Google.....
 
 >         Google - AST (aspartate aminotransferase) is an enzyme that is found mostly in the liver, but also in muscles. When your liver is damaged, it releases AST into your bloodstream. An AST blood test measures the amount of AST in your blood. The test can help your health care provider diagnose liver damage or disease.
 >         
 >         ME - WOOAAAHHH.......
         
-**Total_protein** - Albumin and globulin are two types of protein in your body. The total protein test measures the total amount albumin and globulin in your body. It's used as part of your routine health checkup. It may also be used if you have unexpected weight loss, fatigue, or the symptoms of a kidney or liver disease.
+8. **Total_protein** - Albumin and globulin are two types of protein in your body. The total protein test measures the total amount albumin and globulin in your body. It's used as part of your routine health checkup. It may also be used if you have unexpected weight loss, fatigue, or the symptoms of a kidney or liver disease.
         
 >         ME - Atlast, something I knew.        
 >         Google - You googled it. Don't play smart with me.
 >         ME - uughhhh........There's no pleasing you.
         
-**Albumin** - I think it's related to the protein in our bodies....
+9. **Albumin** - I think it's related to the protein in our bodies....
             
 >         Google - Albumin is a protein made by your liver. Albumin helps keep fluid in your bloodstream so it doesn't leak into other tissues. It is also carries various substances throughout your body, including hormones, vitamins, and enzymes. Low albumin levels can indicate a problem with your liver or kidneys.
 >         
 >         ME - Close enough!!...
 >         Google - *Face palms*
 
-**Albumin_and_Globulin_Ratio** - This one's pretty eas......
+10. **Albumin_and_Globulin_Ratio** - This one's pretty eas......
 
 >         Google - The Albumin to Globulin ratio (A:G) is the ratio of albumin present in serum in relation to the amount of globulin. The ratio can be interpreted only in light of the total protein concentration. Very generally speaking, the normal ratio in most species approximates 1:1.
 >         
@@ -82,7 +82,7 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 >         Google - The Arithmetic Mean is the average of the numbe....
 >         ME - I know THAT...
 
-**Dataset** - This is labelled incorrectly. From my perspective it should be "Liver_Disease" indicating that the patient has liver disease or not 
+11. **Dataset** - This is labelled incorrectly. From my perspective it should be "Liver_Disease" indicating that the patient has liver disease or not 
 
 ### Type of Machine Learning Problem
 It is a binary classification problem, where given the above set of features, we need to predict if a given patient has liver disease or not.
@@ -99,4 +99,4 @@ It is a binary classification problem, where given the above set of features, we
 Since this is binary classification problem, we use the following metrics:
 
 * Confusion matrix - For getting a better clarity of the no of correct/incorrect predictions by the model
-* ROC-AUC - It considers the rank of the output probabilities and intuitively measures the likelihood that model can distinguish between a positive point and a negative point. (Note: ROC-AUC is typically used for binary classification only). We will use AUC to select the best model.
+* ROC-AUC - It considers the rank of the output probabilities and intuitively measures the likelihood that model can distinguish between a positive point and a negative point. 
