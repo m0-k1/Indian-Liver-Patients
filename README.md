@@ -11,6 +11,8 @@ This data set contains 416 liver patient records and 167 non liver patient recor
 
 Any patient whose age exceeded 89 is listed as being of age "90".
 
+<img src="https://static.india.com/wp-content/uploads/2017/07/hepatitis.jpg?impolicy=Medium_Resize&w=1200&h=800">
+
 ## Features of the data set :
 
 ### Column Name
