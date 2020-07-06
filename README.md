@@ -15,17 +15,17 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 
 ### Column Name
 
-**Age** - Tells the person's age.
+1. **Age** - Tells the person's age.
         
 >         Google - This we all know....duh
 
-**Gender** - (Male or Female) Tells the person's gender. This is a very controversial column as we now know that there can be a spectrum of genders. But here we will only consider two genders.
+2. **Gender** - (Male or Female) Tells the person's gender. This is a very controversial column as we now know that there can be a spectrum of genders. But here we will only consider two genders.
             
 >          ME - My sincere apologies to LGBTQIA+ community....I hope in near future we will have a dataset where the spectrum of genders are included.            
          Google - Oh my! you knew that LGBTQ community has now become LGBTQIA+ community...Impressive
          ME - Thank you google.
 
-**Total_Bilirubin** - Well, I'm a mechancial engineer and not a doctor. So obviously I have no clue what this means. Let's ask google baba.
+3. **Total_Bilirubin** - Well, I'm a mechancial engineer and not a doctor. So obviously I have no clue what this means. Let's ask google baba.
 
 >         Google - A bilirubin test measures the amount of bilirubin in your blood. It’s used to help find the cause of health conditions like jaundice, anemia, and liver disease.
 >         Bilirubin is an orange-yellow pigment that occurs normally when part of your red blood cells break down. Your liver takes the bilirubin from your blood and changes its chemical make-up so that most of it is passed through your poop as bile.
