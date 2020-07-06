@@ -1,3 +1,4 @@
+<img src="https://github.com/favicon.ico" width="48">
 # Indian Liver Patients
 
 ## Problem Context
