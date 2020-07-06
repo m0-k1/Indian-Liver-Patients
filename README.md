@@ -1,4 +1,5 @@
 <img src="https://github.com/favicon.ico" width="48">
+
 # Indian Liver Patients
 
 ## Problem Context
@@ -23,7 +24,15 @@ Albumin and Globulin Ratio
 Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
 
 ### Type of Machine Learning Problem
-It is a binary classification problem, where given the above set of features, we need to predict if a given patient has liver disease or not
+It is a binary classification problem, where given the above set of features, we need to predict if a given patient has liver disease or not.
+* Supervised Machine learning Techniques Used:
+  +   K Nearest Neighbour
+  +   Gaussian Naive Bayes
+  +   Support Vector Machine (SVM)
+  +   Decision Tree Classifier
+  +   Logistic Regression
+  +   Stochastic Gradient Descent
+  +   Random Forest Classifier
 
 ### Evaluation Metrics Used - 
 Since this is binary classification problem, we use the following metrics:
