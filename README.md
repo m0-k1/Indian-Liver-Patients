@@ -1,6 +1,5 @@
-# Indian-Liver-Patients
-Liver-diesease-prediction
-# Business Problem
+# Indian Liver Patients
+
 ## Problem Context
 Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors.
 
@@ -22,11 +21,10 @@ Albumin
 Albumin and Globulin Ratio
 Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
 
-## Mapping business problem to ML problem
 ### Type of Machine Learning Problem
 It is a binary classification problem, where given the above set of features, we need to predict if a given patient has liver disease or not
 
-### Evaluation Metric (KPI)
+### Evaluation Metrics Used - 
 Since this is binary classification problem, we use the following metrics:
 
 * Confusion matrix - For getting a better clarity of the no of correct/incorrect predictions by the model
