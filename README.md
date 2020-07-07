@@ -23,9 +23,9 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 
 2. **Gender** - (Male or Female) Tells the person's gender. This is a very controversial column as we now know that there can be a spectrum of genders. But here we will only consider two genders.
             
->          ME - My sincere apologies to LGBTQIA+ community....I hope in near future we will have a dataset where the spectrum of genders are included.            
-         Google - Oh my! you knew that LGBTQ community has now become LGBTQIA+ community...Impressive
-         ME - Thank you google.
+>          ME - My sincere apologies to the people who do not orient themselves as "Male" or "Female". I hope in near future we will have a dataset where the spectrum of genders are included.            
+     Google - Oh my! you knew that gender is not binary but a spectrum. Impressive..
+     ME - Thank you google.
 
 3. **Total_Bilirubin** - Well, I'm a mechancial engineer and not a doctor. So obviously I have no clue what this means. Let's ask google baba.
 
