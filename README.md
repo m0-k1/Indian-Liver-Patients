@@ -86,7 +86,7 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 
 11. **Dataset** - This is labelled incorrectly. From my perspective it should be "Liver_Disease" indicating that the patient has liver disease or not 
 
-### Type of Machine Learning Problem
+## Type of Machine Learning Problem
 It is a binary classification problem, where given the above set of features, we need to predict if a given patient has liver disease or not.
 * Supervised Machine learning Techniques Used:
   +   K Nearest Neighbour
@@ -97,11 +97,11 @@ It is a binary classification problem, where given the above set of features, we
   +   Stochastic Gradient Descent
   +   Random Forest Classifier
 
-### Evaluation Metrics Used - 
+## Evaluation Metrics Used - 
 Since this is binary classification problem, we use the following metrics:
 
 * Confusion matrix - For getting a better clarity of the no of correct/incorrect predictions by the model.
 * ROC-AUC - It considers the rank of the output probabilities and intuitively measures the likelihood that model can distinguish between a positive point and a negative point.
 
-### Implementations
+## Implementations
 > To see the implementation check this link - https://www.kaggle.com/mohitkundu1/liver-patient-prediction or https://github.com/m0-k1/Indian-Liver-Patients/blob/master/Liver-Patient-Prediction.ipynb
