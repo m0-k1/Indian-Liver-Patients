@@ -100,7 +100,7 @@ It is a binary classification problem, where given the above set of features, we
 ## Evaluation Metrics Used - 
 Since this is binary classification problem, we use the following metrics:
 
-* Confusion matrix - For getting a better clarity of the no of correct/incorrect predictions by the model
+* Confusion matrix - For getting a better clarity of the no of correct/incorrect predictions by the model.
 * ROC-AUC - It considers the rank of the output probabilities and intuitively measures the likelihood that model can distinguish between a positive point and a negative point.
 
 ## Implementations
